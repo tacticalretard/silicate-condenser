@@ -1,0 +1,15 @@
+{
+    "type": "GenericCrafter",
+    "name": "Silicate Condenser",
+    "description": "Uses internalized bonding agents to harvest airborne silicates and condense them into a sand-like particulate.",
+    "size": 2,
+    "outputItem": {"item": "sand", "amount": 1},
+    "craftTime": 60,
+    "consumes": {
+    },
+    "requirements":[
+        { "item": "copper", "amount": 30 }
+    ],
+    "category": "crafting",
+    "research": "mechanical-drill"
+}
